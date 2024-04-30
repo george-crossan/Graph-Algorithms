@@ -4,10 +4,10 @@
  * Start Date: 25/03/2024
  * 
  * Authors: 
- *  Daniel Ortega Lloret C22726225
- *  Dylan O'rourke C22341463
- *  Ciaran Coyne C22416392
- *  George Crossan C22374763
+ *  Daniel Ortega Lloret
+ *  Dylan O'rourke
+ *  Ciaran Coyne
+ *  George Crossan
  */
 
 // Uses an Adjacency Linked Lists, suitable for sparse graphs
